@@ -1,0 +1,18 @@
+وفر 80% من وقتك في كتابة Boilerplate Code مع AutoValue! 
+السلام عليكم 
+كلنا عانينا من كتابة الـ Getters والـ Constructors والـ equals/hashCode/toString لكل immutable class! 
+المكشله دي ليها اكتر من حل هنتكلم عن واحد انهرده وواحد البوست الجاي وواحد البوست البعده. 
+أداة AutoValue من جوجل! هتساعدك تعمل generate للكود المكرر في ثواني
+كيف تستخدمها؟ 
+١. ضيف الـ Dependency في الـ POM: 
+٢. اقلب الـclass لـAbstract class مع @AutoValue:
+٣. استخدم الـ static Method عشان تعمل instance: 
+النتيجة؟ 
+	كود أنظف!
+	وقت أقل في الصيانة! 
+	أقل أخطاء بشرية!
+جربها وقولي رأيك! والكود كامل على GitHub: [https://github.com/Marwan-Mamdouh/google-auto-value-tutorial] 
+
+#Java #AutoValue #DevelopmentTips #Coding  
+
+بالتوفيق!
